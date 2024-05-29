@@ -2,7 +2,7 @@
 - 👀 Exploring Data Science And AI field
 - 🌱 I’m currently learning Data Science and AI
 - 📫 contact me @diwash.adhi4@gmail.com linkedin https://www.linkedin.com/in/diwash-adhikari/
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am curious and Active learner
 
 - 
