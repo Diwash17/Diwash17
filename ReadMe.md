@@ -16,6 +16,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Diwash17&theme=dark&hide_border=false&background=1F1F1F)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diwash17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=24292e)
 
+
+![Diwash17
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diwash17&custom&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Diwash17&icon=0&color=0)](https://visitcount.itsvg.in)
 
