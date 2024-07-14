@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Exploring the Data Science and AI field<br><br>⚡ Fun fact: I am a curious and Active learner<br><br>
+👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Aspiring Data Scientist <br><br>⚡ Fun fact: I am a curious and Active learner<br><br>
 
 
 ## 🌐 Socials:
