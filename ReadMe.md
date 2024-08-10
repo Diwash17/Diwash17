@@ -1,8 +1,7 @@
 <div style="background-color:#2D2F33; padding: 10px; border-radius: 10px;">
 
 # 💫 About Me:
-👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Aspiring Data Scientist <br><br>⚡ Fun fact: I am a curious and Active learner<br><br>
-
+👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Aspiring Data Scientist <br><br>⚡ Fun fact: I am a curious and Active learner<br><br>📫 How to reach me: diwash.adhi4@gmail.com
 </div>
 
 ## 🌐 Socials:
