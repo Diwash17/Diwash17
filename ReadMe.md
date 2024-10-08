@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Diwash17&icon=0&color=0)](https://visitcount.itsvg.in)
 <div style="background-color:#2D2F33; padding: 10px; border-radius: 10px;">
 
 # 💫 About Me:
