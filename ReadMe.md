@@ -4,6 +4,8 @@
 👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Aspiring Data Scientist <br><br>⚡ Fun fact: I am a curious and Active learner<br><br>📫 How to reach me: diwash.adhi4@gmail.com
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Diwash17&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwash-adhikari/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/diwash.adhikari.146) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/diwash017/) 
 
@@ -21,7 +23,6 @@
 
 ![Diwash17
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diwash17&custom&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
----
-[![](https://visitcount.itsvg.in/api?id=Diwash17&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
