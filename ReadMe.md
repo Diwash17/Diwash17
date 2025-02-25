@@ -1,9 +1,12 @@
-[![](https://visitcount.itsvg.in/api?id=Diwash17&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Diwash17&label=Profile%20Views&color=blue&style=flat)
 <div style="background-color:#2D2F33; padding: 10px; border-radius: 10px;">
 
 # 💫 About Me:
 👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Aspiring Data Scientist<br><br>💼 I am a data-driven decision-maker, an ML practitioner, and I also love doing sports analysis.<br><br>⚡ Fun fact: I am a curious and Active learner<br><br>📫 How to reach me: diwash.adhi4@gmail.com
 </div>
+
+### 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Diwash17&theme=darkhub&margin-w=5&margin-h=5)
 
 
 ## 🌐 Socials:
