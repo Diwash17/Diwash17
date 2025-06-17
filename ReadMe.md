@@ -2,7 +2,7 @@
 <div style="background-color:#2D2F33; padding: 10px; border-radius: 10px;">
 
 # 💫 About Me:
-👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Aspiring Data Scientist<br><br>💼 I am a data-driven decision-maker, an ML practitioner, and I also love doing sports analysis.<br><br>⚡ Fun fact: I am a curious and Active learner<br><br>📫 How to reach me: diwash.adhi4@gmail.com
+👋 Hi, I’m Diwash Adhikari<br><br>Working with Python<br><br>Data Scientist<br><br>💼 I am a data-driven decision-maker, an ML practitioner, and I also love doing sports analysis.<br><br>⚡ Fun fact: I am a curious and Active learner<br><br>📫 How to reach me: diwash.adhi4@gmail.com
 </div>
 
 ### 🏆 GitHub Trophies
