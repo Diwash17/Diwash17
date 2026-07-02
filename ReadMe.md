@@ -10,11 +10,11 @@
 
 # 💫 About Me:
 
-A data-driven decision-maker, machine learning practitioner. I enjoy solving real-world problems using AI and ML.
+A data-driven decision-maker and machine learning practitioner. I enjoy solving real-world problems using AI and ML.
 I am a curious and active learner who thrives on continuous exploration, experimentation, and innovation.
 
 💼 I am open to collaborating on AI/ML projects or exploring employment opportunities in the field.  
-📫 Reach me at: diwash.adhi4@gmail.com
+📫 Reach me at: diwash.adhi4@gmail.com, contact no:  9807372609
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Diwash17&theme=darkhub&margin-w=5&margin-h=5)
