@@ -4,7 +4,7 @@
 <div align="center">
   
 <h1>Hey there 👋, I'm <span style="color:#00ADB5;">Diwash Adhikari from Nepal </span></h1>
-<h3>Data Scientist| ML Engineer |Junior Engineer at CareGene AI |NLP, Computer Vision, LLM </h3>
+<h3> ML Engineer |Junior Engineer at CareGene AI |NLP, Computer Vision, LLM ,Agentic AI,</h3>
 
 </div
 
