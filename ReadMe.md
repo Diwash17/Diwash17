@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Diwash Adhikari
 
-### Junior Engineer at CareGene AI | Healthcare AI | ML Engineer | LLMs | Agentic AI | NLP | Computer Vision
+### Junior Engineer | Healthcare AI | ML Engineer | LLMs | Agentic AI | NLP | Computer Vision
 
 <p>
   <a href="https://github.com/Diwash17">
