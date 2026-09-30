@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I am a **Machine Learning practitioner and Junior Engineer at CareGene AI**, working on **AI solutions for the US healthcare space**.
+I am a **Machine Learning practitioner and Junior Engineer**, worked on **AI solutions for the US healthcare space**.
 
 My current work focuses on building practical AI systems involving **LLMs, Agentic AI, RAG, NLP, and intelligent workflows**. I enjoy working at the intersection of machine learning, software engineering, and real-world AI applications.
 
